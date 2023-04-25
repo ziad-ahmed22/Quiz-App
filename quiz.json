@@ -1,0 +1,110 @@
+[
+    {
+        "id": "1",
+        "question": "Which of the following is the correct syntax to print a page using JavaScript?",
+        "answer": {
+            "ans1": "window.print();",
+            "ans2": "browser.print();",
+            "ans3": "navigator.print();",
+            "ans4": "document.print();"
+        },
+        "right_answer": "window.print();"
+    },
+    {
+        "id": "2",
+        "question": "Which built-in method adds one or more elements to the end of an array and returns the new length of the array?",
+        "answer": {
+            "ans1": "last()",
+            "ans2": "put()",
+            "ans3": "push()"
+        },
+        "right_answer": "push()"
+    },
+    {
+        "id": "3",
+        "question": "Which of the following code creates an object?",
+        "answer": {
+            "ans1": "var book = Object();",
+            "ans2": "var book = new Object();",
+            "ans3": "var book = new OBJECT();",
+            "ans4": "var book = new Book();"
+        },
+        "right_answer": "var book = new Object();"
+    },
+    {
+        "id": "4",
+        "question": "Which of the following function of Array object removes the last element from an array and returns that element?",
+        "answer": {
+            "ans1": "pop()",
+            "ans2": "push()",
+            "ans3": "join();",
+            "ans4": "map();"
+        },
+        "right_answer": "pop()"
+    },
+    {
+        "id": "5",
+        "question": "Which of the following function of Array object removes the first element from an array and returns that element?",
+        "answer": {
+            "ans1": "reverse()",
+            "ans2": "shift()",
+            "ans3": "slice();",
+            "ans4": "some();"
+        },
+        "right_answer": "shift()"
+    },
+    {
+        "id": "6",
+        "question": "Which of the following keywords is used to define a variable in Javascript?",
+        "answer": {
+            "ans1": "var",
+            "ans2": "let",
+            "ans3": "const",
+            "ans4": "All answer is correct"
+        },
+        "right_answer": "All answer is correct"
+    },
+    {
+        "id": "7",
+        "question": "When an operator’s value is NULL, the typeof returned by the unary operator is:",
+        "answer": {
+            "ans1": "Boolean",
+            "ans2": "Undefined",
+            "ans3": "Object",
+            "ans4": "Integer"
+        },
+        "right_answer": "Object"
+    },
+    {
+        "id": "8",
+        "question": "Which function is used to serialize an object into a JSON string in Javascript?",
+        "answer": {
+            "ans1": "stringify()",
+            "ans2": "parse()",
+            "ans3": "convert()",
+            "ans4": "None of them"
+        },
+        "right_answer": "stringify()"
+    },
+    {
+        "id": "9",
+        "question": "Which of the following are closures in Javascript?",
+        "answer": {
+            "ans1": "Variables",
+            "ans2": "Functions",
+            "ans3": "Objects",
+            "ans4": "All answer is correct"
+        },
+        "right_answer": "All answer is correct"
+    },
+    {
+        "id": "10",
+        "question": "Which of the following is not a Javascript framework?",
+        "answer": {
+            "ans1": "Node",
+            "ans2": "Vue",
+            "ans3": "Cassandra"
+        },
+        "right_answer": "Cassandra"
+    }
+]
