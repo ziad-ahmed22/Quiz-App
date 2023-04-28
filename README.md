@@ -5,8 +5,8 @@
   <li>Showing number of the current question</li>
   <li>Colored pullets refer to the question numbers finished and the questions remaining</li>
   <li>
+    Using countdown timer
     <ul>
-        Using countdown timer
         <li>When timer is end the question will be false and go to next question</li>
     </ul>
   </li>
