@@ -1,5 +1,5 @@
 <h1>Quiz App</h1>
-<h2>Javascript Quiz App using Html, Css, Js & Fetch API From (json file).</h2>
+<h3>Javascript Quiz App using Html, Css, Js & Fetch API From (json file).</h3>
 <ul>
   <li>Showing number of the questions.</li>
   <li>Showing number of the current question.</li>
