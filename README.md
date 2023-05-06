@@ -12,3 +12,5 @@
   </li>
   <li>When submit all question the grade will display and the timer is stopped.</li>
 </ul>
+<hr>
+<a href="https://ziad-ahmed22.github.io/Quiz_App/">Live View</a>
