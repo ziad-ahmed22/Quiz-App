@@ -3,4 +3,4 @@
   -	HTML | CSS | Js | API | Responsive
 
 <hr>
-<a href="https://ziad-ahmed22.github.io/Quiz_App/">Live View</a>
+<a href="https://ziad-ahmed22.github.io/Quiz-App/">Live View</a>
